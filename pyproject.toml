@@ -1,0 +1,14 @@
+[project]
+name = "visionai-foundation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Kashifali34501", email = "kashifali34501@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "ultralytics>=8.4.175",
+    "opencv-python",
+]
+
